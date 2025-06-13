@@ -13,12 +13,12 @@ function draw() {
   
   if (Xjogador1 > 350) {
     fill("#00FFFF	");
-    text("Jogador 1 venceu!", 50, 200);
+    text("Campo venceu😜!!", 50, 200);
     noLoop();
 }
    if (Xjogador2 > 350) {
     fill("#EB1101");
-    text("Jogador 2 venceu!", 50, 200);
+    text("Cidade venceu🙄!!", 50, 200);
     noLoop();
    }
 }
